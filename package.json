@@ -1,0 +1,19 @@
+{
+  "name": "traildata",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "leaflet": "^0.7.3",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "webpack": "^1.9.10",
+    "webpack-dev-server": "^1.9.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
