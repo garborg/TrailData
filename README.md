@@ -12,7 +12,7 @@ This project is meant as a starting point to explore the integration of [CodeFor
 
 This project depends on Node.js (for dependency management, the build step, and a dev server), which we will assume you've installed either from a binary [here](https://nodejs.org/download/) or using your favorite package manager.
 
-Then, running `npm install` at the command line will install remaining dependencies (local to this project), after which `npm start` will launch a dev server that serves the map at `http://localhost:8080`.
+After cloning this repo and moving to the directory at the command line, running `npm install` will install remaining dependencies (local to this project), after which `npm start` will launch a dev server that serves the map at `http://localhost:8080`.
 
 ## OpenTrails Data
 
